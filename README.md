@@ -1,1 +1,1 @@
-# .github
+# Minim Follow sat!
